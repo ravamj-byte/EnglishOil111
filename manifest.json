@@ -1,0 +1,17 @@
+{
+  "name": "EnglishOil — английский для нефтегаза",
+  "short_name": "EnglishOil",
+  "description": "Ежедневный десятиминутный тренажёр английского для нефтегазовой отрасли",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#E9EEE9",
+  "theme_color": "#F4B400",
+  "lang": "ru",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
